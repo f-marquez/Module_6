@@ -7,3 +7,17 @@ This new assignment consists of three technical analyses. You will submit the fo
 - Deliverable 1: Retrieve Weather Data
 - Deliverable 2: Create a Customer Travel Destinations Map
 - Deliverable 3: Create a Travel Itinerary Map
+
+## Deliverable 1: Retrieve Weather Data
+Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
+
+## Deliverable 2: Create a Customer Travel Destinations Map
+Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
+
+  ### Marker Map
+ ![Alt text](https://github.com/f-marquez/Module_6/blob/main/Vacation_Itinerary/travel_map_markers.png)
+
+
+## Deliverable 3: Create a Travel Itinerary Map
+  ### Marker Map
+![Alt text](https://github.com/f-marquez/Module_6/blob/main/Vacation_Itinerary/travel_map.png)
